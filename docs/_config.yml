@@ -1,8 +1,8 @@
 title: GG | Data Viz
 description: Data viz notes and notebooks!
 permalink: ':title/' 
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://gabrieleghisleni.github.io/Data-Viz/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Data-Viz" # the subpath of your site, e.g. /blog
+url: "https://gabrieleghisleni.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
