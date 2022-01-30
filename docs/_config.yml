@@ -1,0 +1,34 @@
+title: GG | Data Viz
+description: Data viz notes and notebooks!
+permalink: ':title/' 
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https://gabrieleghisleni.github.io/Data-Viz/" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Gabriele Ghisleni # add your name
+author-img: ggabry.jpg # add your photo
+about-author: Data Scientist & ML Engineer <br/> @ University of Trento # add description
+social-twitter: https://gabrieleghisleni.github.io/GG-website/#/home
+social-facebook: # add your Facebook handle
+social-github: https://github.com/GabrieleGhisleni # add your Github handle
+social-linkedin: https://www.linkedin.com/feed/
+social-email: gabriele.ghisleni01@gmail.com
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
